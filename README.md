@@ -1,3 +1,3 @@
-#Visualization of Data with Power BI
+# Visualization of Data with Power BI
 
 <img src='Screenshot.JPG'>
